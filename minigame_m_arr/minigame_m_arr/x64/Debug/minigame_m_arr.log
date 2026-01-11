@@ -1,0 +1,6 @@
+﻿  minigame_m_arr.c
+D:\Cplussources\minigame_m_arr\minigame_m_arr\minigame_m_arr\minigame_m_arr.c(12,2): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Cplussources\minigame_m_arr\minigame_m_arr\minigame_m_arr\minigame_m_arr.c(48,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\Cplussources\minigame_m_arr\minigame_m_arr\minigame_m_arr\minigame_m_arr.c(48,11): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\Cplussources\minigame_m_arr\minigame_m_arr\minigame_m_arr\minigame_m_arr.c(112,17): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  minigame_m_arr.vcxproj -> D:\Cplussources\minigame_m_arr\minigame_m_arr\x64\Debug\minigame_m_arr.exe
